@@ -105,4 +105,11 @@ public class Operadores {
     }
 
 
+    public void cambiosTipo(){
+
+
+
+    }
+
+
 }
